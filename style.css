@@ -36,6 +36,8 @@ h2{
 }
 
 .link-btn {
+ display: inline-block;
+ margin:20px 0;
  text-decoration: none;
  text-transform: uppercase;
  font-size: 18px;
@@ -56,6 +58,9 @@ h2{
  background:url(./images/exp-bg.png);
  background-repeat:no-repeat;
  background-position: left;
+}
+.exp-area h1{
+ margin:0 0 60px 50px;
 }
 .exp-item{
  width: 40%;
